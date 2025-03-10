@@ -25,6 +25,10 @@ A full-stack blog application built with Next.js 13, Supabase, and TypeScript. F
 - **Date Formatting**: date-fns
 
 ## Getting Started
+Here's a quick demo of the website:
+
+https://github.com/user-attachments/assets/1d1a73ec-fbe3-4b13-9039-616949223072
+
 
 ### Prerequisites
 
